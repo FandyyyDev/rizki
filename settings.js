@@ -12,8 +12,8 @@ global.APIKeys = {
 
 //===> UBAH DISINI
 global.namaowner = 'RIZKI STORE' //Ganti Jadi Namamu
-global.owner = ['6287826428918'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6287826428918' //Owner Utama Istilahnya
+global.owner = ['6287826428918','6281935693729'] //Kalo Mau Lebih Tambahin Aja
+global.nomerowner = '6281935693729' //Owner Utama Istilahnya
 global.namabot = 'RIZKIBOTZ' //Ganti Jadi Nama Botmu
 global.packname = '© RIZKIBOTZ' //Sticker Weem
 global.author = 'RIZKIBOTZ BY RIZKI' //Sticker Weem
